@@ -7,7 +7,7 @@ https://github.com/AshadullahDanish/Paypal-payment-transaction-monitoring/assets
 
 
 ## Click below for try this 👇 
-Open [[Paypal-payment-transaction-monitoring](https://payment-transaction-monitoring-earrxfxpsnd4xcxaohbajg.streamlit.app/)) in your browser to experience the magic.
+Open [[[Paypal-payment-transaction-monitoring](https://payment-transaction-monitoring-earrxfxpsnd4xcxaohbajg.streamlit.app)](https://payment-transaction-monitoring-earrxfxpsnd4xcxaohbajg.streamlit.app/)) in your browser to experience the magic.
 ## Features 🌟
 
 - **Two Powerful Apps:** Explore the "Welcome to PayPal Risk Reviews" app for an overview and the "Transaction Breakdown" app for detailed transaction analysis.
