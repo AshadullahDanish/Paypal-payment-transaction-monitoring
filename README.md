@@ -5,6 +5,9 @@ Welcome to the PayPal Risk Reviews Dashboard! This Streamlit-based project allow
 
 https://github.com/AshadullahDanish/Paypal-payment-transaction-monitoring/assets/77275155/8ac390b0-4853-4e30-82f7-8ece76a5fb3d
 
+
+## Click below for try this 👇 
+Open [[Paypal-payment-transaction-monitoring](https://payment-transaction-monitoring-earrxfxpsnd4xcxaohbajg.streamlit.app/)) in your browser to experience the magic.
 ## Features 🌟
 
 - **Two Powerful Apps:** Explore the "Welcome to PayPal Risk Reviews" app for an overview and the "Transaction Breakdown" app for detailed transaction analysis.
